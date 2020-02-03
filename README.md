@@ -1,8 +1,10 @@
 # NeuroFlow Data Analyst Exercise
 
 ## Part 1:
-Files:
-1. 
+File and Description:
+1. "Data Analyst Exercise Part 1.py" - Script for producing the visualizations. 	
+2. "NeuroFlow Data Analyst Exercise Part 1 Report.html"	- Report summarizing approach, improvements and areas for further research. 
+3. "subj_measures.csv" - Data of subjective measures used in visualizations.
 
 Instructions for Running Python Visualization Script:
 1. Download the file "Data Analyst Exercise Part 1.py"
@@ -12,4 +14,6 @@ Instructions for Running Python Visualization Script:
 
 ## Part 2:
 Files:
+1. "Part 2 Question 1.sql" - Query for question 1 in part 2.
+2. "Part 2 Question 2.sql" - Query for question 2 in part 2.
 
